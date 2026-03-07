@@ -17,6 +17,7 @@ My main focus is **backend development**, but I also have experience with fronte
 * FastAPI
 * REST API
 * SQL
+* PostgreSQL
 
 ### Frontend
 
@@ -30,6 +31,7 @@ My main focus is **backend development**, but I also have experience with fronte
 * Git
 * GitHub
 * Postman
+* Docker
 
 ---
 
