@@ -1,16 +1,53 @@
-## Hi there 👋
+# Hi, I'm Vorisbek Ernazarov 👋
 
-<!--
-**VorisbekErnazarov/VorisbekErnazarov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Computer Science Student | Backend Developer (Python / FastAPI)**
 
-Here are some ideas to get you started:
+I enjoy building backend systems and APIs using Python and FastAPI.
+Currently working on real-world backend projects while improving my knowledge of modern web technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My main focus is **backend development**, but I also have experience with frontend technologies and enjoy building full-stack applications.
+
+---
+
+## 💻 Tech Stack
+
+### Backend
+
+* Python
+* FastAPI
+* REST API
+* SQL
+
+### Frontend
+
+* HTML
+* CSS
+* JavaScript
+* React (basic)
+
+### Tools
+
+* Git
+* GitHub
+* Postman
+
+---
+
+## 📂 Projects
+
+🔹 **Rent Car API (in progress)**
+Backend service for a car rental platform built with FastAPI.
+Includes authentication, password hashing, protected routes, and REST API endpoints.
+
+🔹 **Image Processing Labs**
+University coursework exploring filtering, convolution, noise removal, and edge detection using Python and OpenCV.
+
+---
+
+## 🌐 Connect with Me
+
+📧 Email: [ernazarovsarvar808@gmail.com](mailto:ernazarovsarvar808@gmail.com)
+
+---
+
+⭐ *Currently focused on becoming a strong backend developer and building real-world projects.*
