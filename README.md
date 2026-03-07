@@ -39,6 +39,9 @@ My main focus is **backend development**, but I also have experience with fronte
 Backend service for a car rental platform built with FastAPI.
 Includes authentication, password hashing, protected routes, and REST API endpoints.
 
+🔹 Frontend Web Projects
+Various web applications built with HTML, CSS, JavaScript, and React.
+
 🔹 **Image Processing Labs**
 University coursework exploring filtering, convolution, noise removal, and edge detection using Python and OpenCV.
 
