@@ -51,7 +51,7 @@ University coursework exploring filtering, convolution, noise removal, and edge 
 
 ## 🌐 Connect with Me
 
-📧 Email: [ernazarovsarvar808@gmail.com](mailto:ernazarovsarvar808@gmail.com)
+📧 Email: [ernazarovsarvar808@gmail.com](mailto:ernazarovsarvar808@gmail.com) 
 
 ---
 
