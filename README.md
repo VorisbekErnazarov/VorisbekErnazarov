@@ -47,7 +47,7 @@ Various web applications built with HTML, CSS, JavaScript, and React.
 🔹 **Image Processing Labs**
 University coursework exploring filtering, convolution, noise removal, and edge detection using Python and OpenCV.
 
----
+--- 
 
 ## 🌐 Connect with Me
 
