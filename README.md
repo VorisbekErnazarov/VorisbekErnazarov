@@ -1,4 +1,4 @@
-# Hi, I'm Vorisbek Ernazarov 👋 
+# Hi, I'm Vorisbek Ernazarov 👋  
           
 🚀 **Computer Science Student | Backend Developer (Python / FastAPI)**
 
