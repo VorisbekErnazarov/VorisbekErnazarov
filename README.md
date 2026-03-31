@@ -7,7 +7,7 @@ Currently working on real-world backend projects while improving my knowledge of
 
 My main focus is **backend development**, but I also have experience with frontend technologies and enjoy building full-stack applications.
  
----
+--- 
  
 ## 💻 Tech Stack
 
