@@ -1,6 +1,6 @@
 # Hi, I'm Vorisbek Ernazarov 👋         
               
-🚀 **Computer Science Student | Backend Developer (Python / FastAPI)**
+🚀 **Computer Science Student | Backend Developer (Python / FastAPI)** 
    
 I enjoy building backend systems and APIs using Python and FastAPI.
 Currently working on real-world backend projects while improving my knowledge of modern web technologies.
