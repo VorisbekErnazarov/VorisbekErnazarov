@@ -2,7 +2,7 @@
               
 🚀 **Computer Science Student | Backend Developer (Python / FastAPI)** 
    
-I enjoy building backend systems and APIs using Python and FastAPI.
+I enjoy building backend systems and APIs using Python and FastAPI. 
 Currently working on real-world backend projects while improving my knowledge of modern web technologies.
 
 My main focus is **backend development**, but I also have experience with frontend technologies and enjoy building full-stack applications.
